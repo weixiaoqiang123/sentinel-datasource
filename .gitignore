@@ -1,0 +1,6 @@
+.idea
+.DS_Store
+target
+*.iml
+# 忽略jar包目录
+repo
